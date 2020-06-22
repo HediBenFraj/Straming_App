@@ -1,0 +1,33 @@
+header {
+  background-color: #24252A;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 10%;
+  height: 30px;
+}
+
+.logo {
+  cursor: pointer;
+  padding-top: 7px;
+}
+
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.item {
+  color: whitesmoke;
+}
+/*# sourceMappingURL=NavBar.css.map */
