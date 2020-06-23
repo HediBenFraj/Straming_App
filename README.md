@@ -1,8 +1,11 @@
 # Straming_App
-this is a streaming app made using Reactjs for the front-end, a simple json file as a database, and an rtmp server for connecting the stream
+this is a streaming app made using Reactjs for the front-end, a simple json file as a database, and an rtmp server for streaming.
 
 this a demo of a streaming app with CRUD operations for the users and streams managment.
-in this app i used a simple Google Oauth for the authentication method.
+in this app i used a simple Google Oauth for the authentication method, semantic ui kit for front-end elements.
+i used React-Redux to implement a store containing all my app's data in one object.
+i used React-Router to handle navigating through components.
+axios to consume the apis.
 
 TO get this app working on your computer you need to follow these steps : 
     1) clone the project on your machine.
